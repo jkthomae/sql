@@ -1,5 +1,5 @@
 # sql
-
+https://mystery.knightlab.com/
 ## plain sql
 
 1. download https://github.com/NUKnightLab/sql-mysteries/blob/master/sql-murder-mystery.db
